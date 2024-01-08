@@ -1,2 +1,2 @@
-# This is sample projet 
+# This is sample project 
 for practice
